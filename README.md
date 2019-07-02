@@ -1,7 +1,7 @@
 ﻿# Open Source GIS Education
 
 ## Location
- * Namseoul University
+ * Namseoul University 공학 2관
  
 ## Date
  * 2019/07/02~2019/07/04 10AM ~ 5PM
