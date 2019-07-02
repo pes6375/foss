@@ -9,3 +9,4 @@
 ## open source software/GIS
 * aaabc
 * 오픈소스 활동에 참여하기
+* GitHub를 이용하여 협업하기
