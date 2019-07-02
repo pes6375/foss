@@ -1,4 +1,4 @@
-# Open Source GIS Education
+﻿# Open Source GIS Education
 
 ## Location
  * Namseoul University
@@ -8,3 +8,4 @@
 
 ## open source software/GIS
 * aaabc
+* 오픈소스 활동에 참여하기
